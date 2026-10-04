@@ -1,0 +1,6 @@
+[data]
+
+caption="[Gohan] “We need more power!”"
+image="14_Gohan.png"
+dub_timestamps=[87.570]
+dub_characters=["Gohan"]

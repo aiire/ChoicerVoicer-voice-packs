@@ -1,0 +1,6 @@
+[data]
+
+caption="[Goku] “GOHAN!! CONCENTRATE!!”"
+image="508_Goku.png"
+dub_timestamps=[148.737]
+dub_characters=["Goku"]

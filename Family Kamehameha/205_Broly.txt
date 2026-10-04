@@ -1,0 +1,6 @@
+[data]
+
+caption="[Broly] “*grunts while firing Gigantic Meteor*”"
+image="205_Broly.png"
+dub_timestamps=[27.821]
+dub_characters=["Broly"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Trunks] “Gohan...? Goten...?”"
+image="402_Trunks.png"
+dub_timestamps=[74.981]
+dub_characters=["Trunks"]

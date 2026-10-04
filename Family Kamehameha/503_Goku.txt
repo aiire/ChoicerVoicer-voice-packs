@@ -1,0 +1,6 @@
+[data]
+
+caption="[Goku] “but, this isn't your fight to finish.”"
+image="503_Goku.png"
+dub_timestamps=[110.030]
+dub_characters=["Goku"]

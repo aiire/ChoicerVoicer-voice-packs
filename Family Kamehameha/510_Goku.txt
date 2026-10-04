@@ -1,0 +1,6 @@
+[data]
+
+caption="[Goku] “Are you willing to let BROLY DESTROY THE EARTH?!”"
+image="510_Goku.png"
+dub_timestamps=[158.234]
+dub_characters=["Goku"]

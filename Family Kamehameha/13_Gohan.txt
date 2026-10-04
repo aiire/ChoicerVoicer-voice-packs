@@ -1,0 +1,6 @@
+[data]
+
+caption="[Gohan] “He's... too strong...!”"
+image="13_Gohan.png"
+dub_timestamps=[85.507]
+dub_characters=["Gohan"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Goten] “*powers up*”"
+image="303_Goten.png"
+dub_timestamps=[48.187]
+dub_characters=["Goten"]

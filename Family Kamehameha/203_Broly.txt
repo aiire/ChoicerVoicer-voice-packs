@@ -1,0 +1,6 @@
+[data]
+
+caption="[Broly] “Not until you lie dead at my feet.”"
+image="203_Broly.png"
+dub_timestamps=[10.673]
+dub_characters=["Broly"]

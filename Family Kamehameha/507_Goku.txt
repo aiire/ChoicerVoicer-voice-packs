@@ -1,0 +1,6 @@
+[data]
+
+caption="[Goku] “*struggles*”"
+image="507_Goku.png"
+dub_timestamps=[147.706]
+dub_characters=["Goku"]

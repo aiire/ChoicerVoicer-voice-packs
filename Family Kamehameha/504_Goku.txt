@@ -1,0 +1,6 @@
+[data]
+
+caption="[Goku] “Broly is MY concern.”"
+image="504_Goku.png"
+dub_timestamps=[112.060]
+dub_characters=["Goku"]

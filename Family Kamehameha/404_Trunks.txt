@@ -1,0 +1,6 @@
+[data]
+
+caption="[Trunks] “you're still a jerk!”"
+image="404_Trunks.png"
+dub_timestamps=[184.640]
+dub_characters=["Trunks"]

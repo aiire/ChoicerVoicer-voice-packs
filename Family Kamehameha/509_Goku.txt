@@ -1,0 +1,6 @@
+[data]
+
+caption="[Goku] “LOOK PAST YOUR FEAR, GOTEN!! YOU CAN DO IT!!!”"
+image="509_Goku.png"
+dub_timestamps=[153.716]
+dub_characters=["Goku"]

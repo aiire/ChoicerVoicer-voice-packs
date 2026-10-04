@@ -1,0 +1,6 @@
+[data]
+
+caption="[Broly] “Regh!! Augh!”"
+image="201_Broly.png"
+dub_timestamps=[2.174]
+dub_characters=["Broly"]

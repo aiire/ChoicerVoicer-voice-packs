@@ -1,0 +1,6 @@
+[data]
+
+caption="[Broly] “KAKAROT!!! *screaming*”"
+image="217_Broly.png"
+dub_timestamps=[246.324]
+dub_characters=["Broly"]

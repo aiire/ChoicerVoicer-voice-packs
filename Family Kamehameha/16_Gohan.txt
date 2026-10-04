@@ -1,0 +1,6 @@
+[data]
+
+caption="[Gohan] “HAAAAAAAAAAAAAAAAAA!!!!!!”"
+image="16_Gohan.png"
+dub_timestamps=[137.787]
+dub_characters=["Gohan"]

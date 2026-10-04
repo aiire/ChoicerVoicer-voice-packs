@@ -1,0 +1,6 @@
+[data]
+
+caption="[Trunks] “I don't really care if you are an almighty Super Saiyan...”"
+image="403_Trunks.png"
+dub_timestamps=[180.628]
+dub_characters=["Trunks"]

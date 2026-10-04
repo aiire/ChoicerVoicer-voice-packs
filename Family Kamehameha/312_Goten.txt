@@ -1,0 +1,6 @@
+[data]
+
+caption="[Goten] “Heh, YEAH, Shenron WAS listening!”"
+image="312_Goten.png"
+dub_timestamps=[123.643]
+dub_characters=["Goten"]

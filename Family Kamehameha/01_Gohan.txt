@@ -1,0 +1,6 @@
+[data]
+
+caption="[Gohan] “Videl, no!”"
+image="01_Gohan.png"
+dub_timestamps=[0.107]
+dub_characters=["Gohan"]

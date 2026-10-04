@@ -1,0 +1,6 @@
+[data]
+
+caption="[Trunks] “*fires blast*”"
+image="405_Trunks.png"
+dub_timestamps=[187.574]
+dub_characters=["Trunks"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Trunks] “From me to you... choke on it... *laid out*”"
+image="406_Trunks.png"
+dub_timestamps=[195.825]
+dub_characters=["Trunks"]

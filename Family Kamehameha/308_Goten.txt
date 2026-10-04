@@ -1,0 +1,6 @@
+[data]
+
+caption="[Goten] “Oh, I wish Dad was here!”"
+image="308_Goten.png"
+dub_timestamps=[91.166]
+dub_characters=["Goten"]

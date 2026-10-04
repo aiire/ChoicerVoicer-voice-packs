@@ -1,0 +1,6 @@
+[data]
+
+caption="[Goku] “We can end this now, but we must work together!”"
+image="511_Goku.png"
+dub_timestamps=[162.534]
+dub_characters=["Goku"]

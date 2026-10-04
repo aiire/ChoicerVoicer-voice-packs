@@ -1,0 +1,6 @@
+[data]
+
+caption="[Gohan] “I've had ENOUGH!!!!”"
+image="05_Gohan.png"
+dub_timestamps=[5.478]
+dub_characters=["Gohan"]
