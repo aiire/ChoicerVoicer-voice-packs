@@ -1,1 +1,2 @@
-# ChoicerVoicer-voice-packs
+# Jonkrumites ChoicerVoicer Voice Pack Library 🗣️🎙️
+## Repository by Aiire & Aurora
