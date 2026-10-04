@@ -1,0 +1,6 @@
+[data]
+
+caption="“Go beyond...! PLUS... ULTRAA!!!!!!!”"
+image="220_All Might.png"
+dub_timestamps=[167.446]
+dub_characters=["All Might"]

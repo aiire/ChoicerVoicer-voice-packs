@@ -1,0 +1,6 @@
+[data]
+
+caption="“ Faker? I think you're the fake hedgehog around here. ”"
+image="202_Shadow the Hedgehog.png"
+dub_timestamps=[11.210]
+dub_characters=["Shadow the Hedgehog"]

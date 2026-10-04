@@ -1,0 +1,6 @@
+[data]
+
+caption="“That was like the finishing move in a video game! He beat the shock absorption right out of him!”"
+image="303_Kirishima.png"
+dub_timestamps=[217.880]
+dub_characters=["Kirishima"]

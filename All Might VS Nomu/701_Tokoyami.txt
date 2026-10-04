@@ -1,0 +1,6 @@
+[data]
+
+caption="“*gasp* Whats happening? Everything is shaking.”"
+image="701_Tokoyami.png"
+dub_timestamps=[182.774]
+dub_characters=["Tokoyami"]

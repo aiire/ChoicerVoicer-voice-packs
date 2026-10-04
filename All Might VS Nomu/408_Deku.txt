@@ -1,0 +1,6 @@
+[data]
+
+caption="“Imagine having power like that... He must've been punching that monster so fast it couldnt regenerate.”"
+image="408_Deku.png"
+dub_timestamps=[225.605]
+dub_characters=["Deku"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“Such power...”"
+image="604_Kurogiri.png"
+dub_timestamps=[206.679]
+dub_characters=["Kurogiri"]

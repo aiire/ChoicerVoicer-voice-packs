@@ -1,0 +1,6 @@
+[data]
+
+caption="“Why, you little...”"
+image="05_Doctor Eggman.png"
+dub_timestamps=[71.442]
+dub_characters=["Doctor Eggman"]

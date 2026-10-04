@@ -1,0 +1,6 @@
+[data]
+
+caption="“R-really! L-look, g-go easy on me! I'll turn over a new leaf- I swear!”"
+image="16_Doctor Eggman.png"
+dub_timestamps=[153.676]
+dub_characters=["Doctor Eggman"]

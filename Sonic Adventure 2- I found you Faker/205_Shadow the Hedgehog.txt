@@ -1,0 +1,6 @@
+[data]
+
+caption="“No time to hang out with the likes of you!”"
+image="205_Shadow the Hedgehog.png"
+dub_timestamps=[22.405]
+dub_characters=["Shadow the Hedgehog"]

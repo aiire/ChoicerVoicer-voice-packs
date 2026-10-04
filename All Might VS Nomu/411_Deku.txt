@@ -1,0 +1,6 @@
+[data]
+
+caption="“*gasp*”"
+image="411_Deku.png"
+dub_timestamps=[237.071]
+dub_characters=["Deku"]

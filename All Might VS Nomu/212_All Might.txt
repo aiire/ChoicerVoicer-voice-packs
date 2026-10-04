@@ -1,0 +1,6 @@
+[data]
+
+caption="“So, you were made to fight me big guy. If he can really withstand me firing at 100% of my power”"
+image="212_All Might.png"
+dub_timestamps=[91.987]
+dub_characters=["All Might"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“No! I cant get near them!”"
+image="601_Kurogiri.png"
+dub_timestamps=[74.386]
+dub_characters=["Kurogiri"]

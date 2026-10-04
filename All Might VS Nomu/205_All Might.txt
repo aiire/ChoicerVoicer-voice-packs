@@ -1,0 +1,6 @@
+[data]
+
+caption="“charge up punch”"
+image="205_All Might.png"
+dub_timestamps=[44.871]
+dub_characters=["All Might"]

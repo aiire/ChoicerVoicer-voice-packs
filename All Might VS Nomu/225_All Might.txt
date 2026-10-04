@@ -1,0 +1,6 @@
+[data]
+
+caption="“Surrender! We all want to get this over with quickly.”"
+image="225_All Might.png"
+dub_timestamps=[275.415]
+dub_characters=["All Might"]

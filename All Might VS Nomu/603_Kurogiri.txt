@@ -1,0 +1,6 @@
+[data]
+
+caption="“It was that brain dude!”"
+image="603_Kurogiri.png"
+dub_timestamps=[204.859]
+dub_characters=["Kurogiri"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“Those arent just random punches either, they're targeted... and every single one of them..!”"
+image="405_Deku.png"
+dub_timestamps=[113.026]
+dub_characters=["Deku"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“Ribbit Ribbit”"
+image="606_Kurogiri.png"
+dub_timestamps=[214.496]
+dub_characters=["Kurogiri"]

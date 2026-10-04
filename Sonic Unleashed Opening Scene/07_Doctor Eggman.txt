@@ -1,0 +1,6 @@
+[data]
+
+caption="“You're not getting away!”"
+image="07_Doctor Eggman.png"
+dub_timestamps=[86.021]
+dub_characters=["Doctor Eggman"]

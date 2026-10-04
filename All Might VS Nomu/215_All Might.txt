@@ -1,0 +1,6 @@
+[data]
+
+caption="“A real hero...”"
+image="215_All Might.png"
+dub_timestamps=[132.325]
+dub_characters=["All Might"]

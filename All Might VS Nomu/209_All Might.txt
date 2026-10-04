@@ -1,0 +1,6 @@
+[data]
+
+caption="“*stomping grunt* He said your quirk was only shock absorption, not nullification!”"
+image="209_All Might.png"
+dub_timestamps=[76.873]
+dub_characters=["All Might"]

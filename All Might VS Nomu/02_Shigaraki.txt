@@ -1,0 +1,6 @@
+[data]
+
+caption="“Lets clear this level and go home”"
+image="02_Shigaraki.png"
+dub_timestamps=[18.862]
+dub_characters=["Shigaraki"]

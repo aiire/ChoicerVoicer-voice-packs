@@ -1,0 +1,6 @@
+[data]
+
+caption="“Woah...”"
+image="24_Doctor Eggman.png"
+dub_timestamps=[246.903]
+dub_characters=["Doctor Eggman"]

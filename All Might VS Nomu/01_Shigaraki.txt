@@ -1,0 +1,6 @@
+[data]
+
+caption="“Nomu, Kurogiri, kill him. I'll deal with the children”"
+image="01_Shigaraki.png"
+dub_timestamps=[1.920]
+dub_characters=["Shigaraki"]

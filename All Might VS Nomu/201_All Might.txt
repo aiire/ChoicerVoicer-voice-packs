@@ -1,0 +1,6 @@
+[data]
+
+caption="“Im afraid that I barely have a minute left in this form”"
+image="201_All Might.png"
+dub_timestamps=[11.066]
+dub_characters=["All Might"]

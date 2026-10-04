@@ -1,0 +1,6 @@
+[data]
+
+caption="“Hes giving it his all.. even though hes injured!”"
+image="404_Deku.png"
+dub_timestamps=[107.065]
+dub_characters=["Deku"]

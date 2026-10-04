@@ -1,0 +1,6 @@
+[data]
+
+caption="“Now I just need to harness its power- Eggmanland will finally come to be!”"
+image="29_Doctor Eggman.png"
+dub_timestamps=[298.368]
+dub_characters=["Doctor Eggman"]

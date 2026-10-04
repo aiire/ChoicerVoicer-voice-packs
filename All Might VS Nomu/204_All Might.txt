@@ -1,0 +1,6 @@
+[data]
+
+caption="“The worlds symbol of peace and justice!”"
+image="204_All Might.png"
+dub_timestamps=[36.901]
+dub_characters=["All Might"]

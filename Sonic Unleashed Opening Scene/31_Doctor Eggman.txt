@@ -1,0 +1,6 @@
+[data]
+
+caption="“Ah, Sonic! That's a good look for you! Festive! So long, friend!”"
+image="31_Doctor Eggman.png"
+dub_timestamps=[310.427]
+dub_characters=["Doctor Eggman"]

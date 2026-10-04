@@ -1,0 +1,6 @@
+[data]
+
+caption="“Rrraah! Fire!”"
+image="23_Doctor Eggman.png"
+dub_timestamps=[207.275]
+dub_characters=["Doctor Eggman"]

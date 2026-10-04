@@ -1,0 +1,6 @@
+[data]
+
+caption="“The entity that was sealed within the planet has awakened!”"
+image="28_Doctor Eggman.png"
+dub_timestamps=[294.776]
+dub_characters=["Doctor Eggman"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“Even so... I have to stop these villains!”"
+image="03_Shigaraki.png"
+dub_timestamps=[22.074]
+dub_characters=["Shigaraki"]

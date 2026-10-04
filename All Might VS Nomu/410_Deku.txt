@@ -1,0 +1,6 @@
+[data]
+
+caption="“Thats how you get to be a pro...”"
+image="410_Deku.png"
+dub_timestamps=[234.526]
+dub_characters=["Deku"]

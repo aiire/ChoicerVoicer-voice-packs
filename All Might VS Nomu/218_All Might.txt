@@ -1,0 +1,6 @@
+[data]
+
+caption="“Now for a lesson...”"
+image="218_All Might.png"
+dub_timestamps=[160.670]
+dub_characters=["All Might"]

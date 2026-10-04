@@ -1,0 +1,6 @@
+[data]
+
+caption="“*grunt* Werent you listening? One of his powers is shock absorption”"
+image="04_Shigaraki.png"
+dub_timestamps=[50.885]
+dub_characters=["Shigaraki"]

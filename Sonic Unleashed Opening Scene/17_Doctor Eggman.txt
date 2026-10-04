@@ -1,0 +1,6 @@
+[data]
+
+caption="“Just give me a chance!”"
+image="17_Doctor Eggman.png"
+dub_timestamps=[158.118]
+dub_characters=["Doctor Eggman"]

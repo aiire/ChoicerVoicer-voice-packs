@@ -1,0 +1,6 @@
+[data]
+
+caption="“Is more than 100% of his power!”"
+image="406_Deku.png"
+dub_timestamps=[122.386]
+dub_characters=["Deku"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“Because I am...”"
+image="203_All Might.png"
+dub_timestamps=[30.053]
+dub_characters=["All Might"]

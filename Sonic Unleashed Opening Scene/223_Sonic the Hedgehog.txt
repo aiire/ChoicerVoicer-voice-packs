@@ -1,0 +1,6 @@
+[data]
+
+caption="“You've really... gone and done it this time Eggman!”"
+image="223_Sonic the Hedgehog.png"
+dub_timestamps=[306.672]
+dub_characters=["Sonic the Hedgehog"]

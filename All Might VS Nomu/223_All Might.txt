@@ -1,0 +1,6 @@
+[data]
+
+caption="“Times up... Gotta end this fast...”"
+image="223_All Might.png"
+dub_timestamps=[263.859]
+dub_characters=["All Might"]

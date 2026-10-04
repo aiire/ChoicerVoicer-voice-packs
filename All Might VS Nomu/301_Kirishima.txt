@@ -1,0 +1,6 @@
+[data]
+
+caption="“Heads up we're fighting after all”"
+image="301_Kirishima.png"
+dub_timestamps=[27.185]
+dub_characters=["Kirishima"]

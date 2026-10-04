@@ -1,0 +1,6 @@
+[data]
+
+caption="“Agh! S-sonic!”"
+image="14_Doctor Eggman.png"
+dub_timestamps=[150.176]
+dub_characters=["Doctor Eggman"]

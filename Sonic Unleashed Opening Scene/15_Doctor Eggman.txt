@@ -1,0 +1,6 @@
+[data]
+
+caption="“I'm- I'm sorry!”"
+image="15_Doctor Eggman.png"
+dub_timestamps=[152.192]
+dub_characters=["Doctor Eggman"]

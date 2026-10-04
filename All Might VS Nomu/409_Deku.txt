@@ -1,0 +1,6 @@
+[data]
+
+caption="“He really is the best.”"
+image="409_Deku.png"
+dub_timestamps=[232.421]
+dub_characters=["Deku"]

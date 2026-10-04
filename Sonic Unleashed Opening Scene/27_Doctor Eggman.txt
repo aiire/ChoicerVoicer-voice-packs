@@ -1,0 +1,6 @@
+[data]
+
+caption="“It's just as the Gaia Manuscripts foretold!”"
+image="27_Doctor Eggman.png"
+dub_timestamps=[291.746]
+dub_characters=["Doctor Eggman"]

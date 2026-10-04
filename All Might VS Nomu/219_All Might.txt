@@ -1,0 +1,6 @@
+[data]
+
+caption="“You may have heard these words before, but I'll teach you what they really mean!”"
+image="219_All Might.png"
+dub_timestamps=[162.691]
+dub_characters=["All Might"]

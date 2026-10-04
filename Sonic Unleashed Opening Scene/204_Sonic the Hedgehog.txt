@@ -1,0 +1,6 @@
+[data]
+
+caption="“Hrgh...”"
+image="204_Sonic the Hedgehog.png"
+dub_timestamps=[95.176]
+dub_characters=["Sonic the Hedgehog"]

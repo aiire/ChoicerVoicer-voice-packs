@@ -1,0 +1,6 @@
+[data]
+
+caption="“I really have gotten weaker... back in my hay day, 5 hits wouldve been enough to knock that guy out...”"
+image="221_All Might.png"
+dub_timestamps=[244.825]
+dub_characters=["All Might"]

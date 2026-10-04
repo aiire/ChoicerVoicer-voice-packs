@@ -1,0 +1,6 @@
+[data]
+
+caption="“Will always find a way for justice to be served!”"
+image="216_All Might.png"
+dub_timestamps=[137.901]
+dub_characters=["All Might"]

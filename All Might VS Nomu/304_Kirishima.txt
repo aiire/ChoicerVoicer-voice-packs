@@ -1,0 +1,6 @@
+[data]
+
+caption="“I've never seen that kind of brute strength!”"
+image="304_Kirishima.png"
+dub_timestamps=[223.132]
+dub_characters=["Kirishima"]

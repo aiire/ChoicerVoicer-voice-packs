@@ -1,0 +1,6 @@
+[data]
+
+caption="“Then I'll have to go beyond that and force you to surrender!”"
+image="213_All Might.png"
+dub_timestamps=[98.977]
+dub_characters=["All Might"]

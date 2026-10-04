@@ -1,0 +1,6 @@
+[data]
+
+caption="“CHAOS CONTROL!”"
+image="206_Shadow the Hedgehog.png"
+dub_timestamps=[59.599]
+dub_characters=["Shadow the Hedgehog"]

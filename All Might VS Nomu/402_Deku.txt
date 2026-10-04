@@ -1,0 +1,6 @@
+[data]
+
+caption="“*twink grunt*”"
+image="402_Deku.png"
+dub_timestamps=[65.386]
+dub_characters=["Deku"]

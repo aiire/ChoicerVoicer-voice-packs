@@ -1,0 +1,6 @@
+[data]
+
+caption="“ I found you, faker!”"
+image="02_Sonic the Hedgehog.png"
+dub_timestamps=[8.798]
+dub_characters=["Sonic the Hedgehog"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“He did it...”"
+image="412_Deku.png"
+dub_timestamps=[240.806]
+dub_characters=["Deku"]

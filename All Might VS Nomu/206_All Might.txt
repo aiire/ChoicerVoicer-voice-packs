@@ -1,0 +1,6 @@
+[data]
+
+caption="“Yeah? What about it?”"
+image="206_All Might.png"
+dub_timestamps=[56.083]
+dub_characters=["All Might"]

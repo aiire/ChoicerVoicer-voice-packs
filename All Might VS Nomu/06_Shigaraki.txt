@@ -1,0 +1,6 @@
+[data]
+
+caption="“He cheated...”"
+image="06_Shigaraki.png"
+dub_timestamps=[280.107]
+dub_characters=["Shigaraki"]

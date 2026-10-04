@@ -1,0 +1,6 @@
+[data]
+
+caption="“You're comparing yourself to me… ha!”"
+image="203_Shadow the Hedgehog.png"
+dub_timestamps=[15.394]
+dub_characters=["Shadow the Hedgehog"]

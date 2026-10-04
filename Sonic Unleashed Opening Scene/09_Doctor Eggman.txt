@@ -1,0 +1,6 @@
+[data]
+
+caption="“Gargh!”"
+image="09_Doctor Eggman.png"
+dub_timestamps=[107.223]
+dub_characters=["Doctor Eggman"]

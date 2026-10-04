@@ -1,0 +1,6 @@
+[data]
+
+caption="“weird alien noise”"
+image="501_Nomu.png"
+dub_timestamps=[44.143]
+dub_characters=["Nomu"]

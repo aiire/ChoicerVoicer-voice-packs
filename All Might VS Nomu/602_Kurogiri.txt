@@ -1,0 +1,6 @@
+[data]
+
+caption="“Um, did a villain just fly by? Or am I just going crazy? (TO REDUCE CHARACTERS KUROGIRIS CHARACTER WILL BE USED FOR NOT SO IMPORTANT PEOPLE)”"
+image="602_Kurogiri.png"
+dub_timestamps=[200.829]
+dub_characters=["Kurogiri"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“What was that??”"
+image="801_Ojiro.png"
+dub_timestamps=[188.128]
+dub_characters=["Ojiro"]

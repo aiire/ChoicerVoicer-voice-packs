@@ -1,0 +1,7 @@
+[data]
+
+caption="“That blue hedgehog again, of all places…
+”"
+image="201_Shadow the Hedgehog.png"
+dub_timestamps=[6.115]
+dub_characters=["Shadow the Hedgehog"]

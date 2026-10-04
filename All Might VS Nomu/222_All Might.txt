@@ -1,0 +1,6 @@
+[data]
+
+caption="“But today it took more than 300 mighty blows...”"
+image="222_All Might.png"
+dub_timestamps=[254.966]
+dub_characters=["All Might"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“*im tired of saying the same shit for his charge ups, yk what to do*”"
+image="217_All Might.png"
+dub_timestamps=[147.598]
+dub_characters=["All Might"]

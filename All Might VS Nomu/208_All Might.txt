@@ -1,0 +1,6 @@
+[data]
+
+caption="“*multiple grunts then a yell*”"
+image="208_All Might.png"
+dub_timestamps=[61.062]
+dub_characters=["All Might"]

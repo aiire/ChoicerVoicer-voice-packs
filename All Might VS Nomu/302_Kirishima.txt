@@ -1,0 +1,6 @@
+[data]
+
+caption="“Woah they're... so fast!”"
+image="302_Kirishima.png"
+dub_timestamps=[71.295]
+dub_characters=["Kirishima"]

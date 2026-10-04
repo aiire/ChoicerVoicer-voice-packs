@@ -1,0 +1,6 @@
+[data]
+
+caption="“Thats All Might for you! Thats why hes the most amazing hero in the entire world!”"
+image="605_Kurogiri.png"
+dub_timestamps=[208.509]
+dub_characters=["Kurogiri"]

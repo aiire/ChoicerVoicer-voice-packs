@@ -1,0 +1,6 @@
+[data]
+
+caption="“Hes gonna fight that brain guy head on?”"
+image="403_Deku.png"
+dub_timestamps=[68.659]
+dub_characters=["Deku"]

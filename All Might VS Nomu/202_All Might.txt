@@ -1,0 +1,6 @@
+[data]
+
+caption="“My powers declining faster than I thought it would”"
+image="202_All Might.png"
+dub_timestamps=[15.095]
+dub_characters=["All Might"]
