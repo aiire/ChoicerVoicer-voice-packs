@@ -1,0 +1,6 @@
+[data]
+
+caption="[Goku] “You'll never REALLY know for sure until I TRY.”"
+image="14_Goku.png"
+dub_timestamps=[129.233]
+dub_characters=["Goku"]

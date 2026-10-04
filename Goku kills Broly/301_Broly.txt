@@ -1,0 +1,6 @@
+[data]
+
+caption="[Broly] “*aggressive (legendary) punches*”"
+image="301_Broly.png"
+dub_timestamps=[25.077]
+dub_characters=["Broly"]

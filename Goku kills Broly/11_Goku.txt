@@ -1,0 +1,6 @@
+[data]
+
+caption="[Goku] “YOUR hour has arrived.”"
+image="11_Goku.png"
+dub_timestamps=[88.230]
+dub_characters=["Goku"]

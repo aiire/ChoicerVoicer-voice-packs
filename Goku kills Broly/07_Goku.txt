@@ -1,0 +1,6 @@
+[data]
+
+caption="[Goku] “Vegeta... what are you waiting for...? You're our last hope...”"
+image="07_Goku.png"
+dub_timestamps=[48.634]
+dub_characters=["Goku"]

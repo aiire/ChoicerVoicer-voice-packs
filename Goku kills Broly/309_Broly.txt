@@ -1,0 +1,6 @@
+[data]
+
+caption="[Broly] “Where is he getting all this energy?! ”"
+image="309_Broly.png"
+dub_timestamps=[83.589]
+dub_characters=["Broly"]

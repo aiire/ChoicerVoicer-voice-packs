@@ -1,0 +1,6 @@
+[data]
+
+caption="[Broly] “You lasted longer than I expected, but your final hour has arrived!”"
+image="304_Broly.png"
+dub_timestamps=[42.625]
+dub_characters=["Broly"]

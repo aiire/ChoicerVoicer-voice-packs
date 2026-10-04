@@ -1,0 +1,6 @@
+[data]
+
+caption="[Broly] “*trembling in fear*”"
+image="310_Broly.png"
+dub_timestamps=[90.417]
+dub_characters=["Broly"]

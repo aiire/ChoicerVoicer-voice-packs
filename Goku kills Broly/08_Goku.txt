@@ -1,0 +1,6 @@
+[data]
+
+caption="[Goku] “Give me your POWERRRRRRRRRRRR!!!!!”"
+image="08_Goku.png"
+dub_timestamps=[55.069]
+dub_characters=["Goku"]

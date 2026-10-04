@@ -1,0 +1,6 @@
+[data]
+
+caption="[Goku] “dyah.. dugh.. GHUAHGHAGHHAGHHAHGAHA”"
+image="02_Goku.png"
+dub_timestamps=[21.435]
+dub_characters=["Goku"]

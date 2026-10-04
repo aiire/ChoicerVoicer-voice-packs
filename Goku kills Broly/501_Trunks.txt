@@ -1,0 +1,6 @@
+[data]
+
+caption="[Trunks] “Get 'em, Gok- eugh... *laid out*”"
+image="501_Trunks.png"
+dub_timestamps=[110.241]
+dub_characters=["Trunks"]

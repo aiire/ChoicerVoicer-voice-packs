@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vegeta] “FINE JUST TAKE IT!! But, Kakarot, FINISH HIM NOWWW!!!”"
+image="205_Vegeta.png"
+dub_timestamps=[62.267]
+dub_characters=["Vegeta"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Gohan] “Take him out... father... *laid out*”"
+image="601_Gohan.png"
+dub_timestamps=[114.091]
+dub_characters=["Gohan"]

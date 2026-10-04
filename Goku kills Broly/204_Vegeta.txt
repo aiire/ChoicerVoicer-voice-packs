@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vegeta] “Tell me... TELL ME WHY?!”"
+image="204_Vegeta.png"
+dub_timestamps=[15.017]
+dub_characters=["Vegeta"]

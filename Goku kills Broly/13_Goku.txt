@@ -1,0 +1,6 @@
+[data]
+
+caption="[Goku] “We'll see about that... ”"
+image="13_Goku.png"
+dub_timestamps=[127.290]
+dub_characters=["Goku"]

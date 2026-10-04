@@ -1,0 +1,6 @@
+[data]
+
+caption="[Goku] “MORE POWER, RIGHT NOW!!!”"
+image="01_Goku.png"
+dub_timestamps=[0.117]
+dub_characters=["Goku"]

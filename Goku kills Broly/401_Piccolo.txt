@@ -1,0 +1,6 @@
+[data]
+
+caption="[Piccolo] “Aghh.. ugh.. uhh...*laid out*”"
+image="401_Piccolo.png"
+dub_timestamps=[107.021]
+dub_characters=["Piccolo"]

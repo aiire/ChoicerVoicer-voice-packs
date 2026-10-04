@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vegeta] “Why should I give my power to a Saiyan that ranks below me...?”"
+image="203_Vegeta.png"
+dub_timestamps=[10.284]
+dub_characters=["Vegeta"]
