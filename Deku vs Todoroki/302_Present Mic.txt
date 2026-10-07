@@ -1,0 +1,6 @@
+[data]
+
+caption="[Present Mic] “Huh??”"
+image="302_Present Mic.png"
+dub_timestamps=[65.193]
+dub_characters=["Present Mic"]

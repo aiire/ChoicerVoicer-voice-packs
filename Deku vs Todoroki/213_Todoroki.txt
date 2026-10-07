@@ -1,0 +1,6 @@
+[data]
+
+caption="[Todoroki] “Don't blame me for what happens next.”"
+image="213_Todoroki.png"
+dub_timestamps=[104.808]
+dub_characters=["Todoroki"]

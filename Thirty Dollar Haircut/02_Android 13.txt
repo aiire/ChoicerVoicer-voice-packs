@@ -1,0 +1,6 @@
+[data]
+
+caption="[Android 13] “It's down there schemin' and plannin', tryin' to realize it's number one ambition, which is to see you DEAD.”"
+image="02_Android 13.png"
+dub_timestamps=[5.530]
+dub_characters=["Android 13"]

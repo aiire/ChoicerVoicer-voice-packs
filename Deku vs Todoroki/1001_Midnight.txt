@@ -1,0 +1,6 @@
+[data]
+
+caption="[Midnight] “His body won't hold up!”"
+image="1001_Midnight.png"
+dub_timestamps=[121.700]
+dub_characters=["Midnight"]

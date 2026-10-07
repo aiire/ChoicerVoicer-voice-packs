@@ -1,0 +1,6 @@
+[data]
+
+caption="[Luis] “The same thing that made them... like that.”"
+image="209_Luis.png"
+dub_timestamps=[23.281]
+dub_characters=["Luis"]

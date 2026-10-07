@@ -1,0 +1,6 @@
+[data]
+
+caption="[Todoroki] “You're helping your opponent, huh?”"
+image="204_Todoroki.png"
+dub_timestamps=[32.957]
+dub_characters=["Todoroki"]

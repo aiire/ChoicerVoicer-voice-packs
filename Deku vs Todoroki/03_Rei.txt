@@ -1,0 +1,6 @@
+[data]
+
+caption="[Rei] “to become who you want to be”"
+image="03_Rei.png"
+dub_timestamps=[5.953]
+dub_characters=["Rei"]

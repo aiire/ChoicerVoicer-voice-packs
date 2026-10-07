@@ -1,0 +1,6 @@
+[data]
+
+caption="[Gohan] “*tweaking in SSJ4*”"
+image="205_Gohan.png"
+dub_timestamps=[47.465]
+dub_characters=["Gohan"]

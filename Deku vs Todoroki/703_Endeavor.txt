@@ -1,0 +1,6 @@
+[data]
+
+caption="[Endeavor] “Have you finally accepted your purpose?”"
+image="703_Endeavor.png"
+dub_timestamps=[65.977]
+dub_characters=["Endeavor"]

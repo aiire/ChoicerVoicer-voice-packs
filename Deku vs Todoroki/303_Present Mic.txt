@@ -1,0 +1,6 @@
+[data]
+
+caption="[Present Mic] “Endeavor suddenly shouts words of... encouragement?”"
+image="303_Present Mic.png"
+dub_timestamps=[85.451]
+dub_characters=["Present Mic"]

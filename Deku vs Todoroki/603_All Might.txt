@@ -1,0 +1,6 @@
+[data]
+
+caption="[All Might] “don't tell me you were trying to save Young Todoroki this whole time...”"
+image="603_All Might.png"
+dub_timestamps=[27.657]
+dub_characters=["All Might"]

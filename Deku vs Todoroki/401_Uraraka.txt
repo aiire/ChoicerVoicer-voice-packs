@@ -1,0 +1,6 @@
+[data]
+
+caption="[Uraraka] “He's using his fire!”"
+image="401_Uraraka.png"
+dub_timestamps=[13.893]
+dub_characters=["Uraraka"]

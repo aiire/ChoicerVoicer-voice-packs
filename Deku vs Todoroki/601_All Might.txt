@@ -1,0 +1,6 @@
+[data]
+
+caption="[All Might] “You made him use his father's power...”"
+image="601_All Might.png"
+dub_timestamps=[23.353]
+dub_characters=["All Might"]

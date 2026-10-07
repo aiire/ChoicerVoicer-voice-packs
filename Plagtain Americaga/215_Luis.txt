@@ -1,0 +1,6 @@
+[data]
+
+caption="[Luis] “with a surgical procedure.”"
+image="215_Luis.png"
+dub_timestamps=[43.751]
+dub_characters=["Luis"]

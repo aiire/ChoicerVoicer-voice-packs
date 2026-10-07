@@ -1,0 +1,6 @@
+[data]
+
+caption="[Android 13] “War, segregation, hatred.”"
+image="06_Android 13.png"
+dub_timestamps=[33.950]
+dub_characters=["Android 13"]

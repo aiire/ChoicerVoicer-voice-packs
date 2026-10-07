@@ -1,0 +1,6 @@
+[data]
+
+caption="[Luis] “And all you need is some know-how”"
+image="216_Luis.png"
+dub_timestamps=[46.251]
+dub_characters=["Luis"]

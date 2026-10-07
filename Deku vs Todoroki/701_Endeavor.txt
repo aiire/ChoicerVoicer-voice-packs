@@ -1,0 +1,6 @@
+[data]
+
+caption="[Endeavor] “*breath*”"
+image="701_Endeavor.png"
+dub_timestamps=[61.103]
+dub_characters=["Endeavor"]

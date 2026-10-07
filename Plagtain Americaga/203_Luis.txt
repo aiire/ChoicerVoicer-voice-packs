@@ -1,0 +1,6 @@
+[data]
+
+caption="[Luis] “The cough... the blood... ”"
+image="203_Luis.png"
+dub_timestamps=[7.309]
+dub_characters=["Luis"]

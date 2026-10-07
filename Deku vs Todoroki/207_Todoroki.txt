@@ -1,0 +1,6 @@
+[data]
+
+caption="[Todoroki] “now which one of us is screwing around?”"
+image="207_Todoroki.png"
+dub_timestamps=[42.100]
+dub_characters=["Todoroki"]

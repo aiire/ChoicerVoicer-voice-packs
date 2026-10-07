@@ -1,0 +1,6 @@
+[data]
+
+caption="[Luis] “They're only the beginning...”"
+image="211_Luis.png"
+dub_timestamps=[30.150]
+dub_characters=["Luis"]

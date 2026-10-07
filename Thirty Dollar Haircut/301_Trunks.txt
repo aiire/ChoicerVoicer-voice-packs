@@ -1,0 +1,6 @@
+[data]
+
+caption="[Trunks] “You're just a slave, a pawn with no free will of it's own, is that it?”"
+image="301_Trunks.png"
+dub_timestamps=[26.512]
+dub_characters=["Trunks"]

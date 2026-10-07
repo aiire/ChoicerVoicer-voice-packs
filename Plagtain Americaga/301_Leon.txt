@@ -1,0 +1,6 @@
+[data]
+
+caption="[Leon] “You wanna start explaining?”"
+image="301_Leon.png"
+dub_timestamps=[5.524]
+dub_characters=["Leon"]

@@ -2,5 +2,5 @@
 
 caption="[Vegeta] “*transfers Ki*”"
 image="206_Vegeta.png"
-dub_timestamps=[71.285]
+dub_timestamps=[70.985]
 dub_characters=["Vegeta"]

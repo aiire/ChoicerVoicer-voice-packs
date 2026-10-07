@@ -1,0 +1,6 @@
+[data]
+
+caption="[All Might] “Midoriya...”"
+image="602_All Might.png"
+dub_timestamps=[26.058]
+dub_characters=["All Might"]

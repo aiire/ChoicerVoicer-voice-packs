@@ -1,0 +1,6 @@
+[data]
+
+caption="[Android 13] “\"Free will.\" Pitiful humans.”"
+image="05_Android 13.png"
+dub_timestamps=[31.180]
+dub_characters=["Android 13"]

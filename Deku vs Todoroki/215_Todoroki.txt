@@ -1,0 +1,6 @@
+[data]
+
+caption="[Todoroki] “Thank you.”"
+image="215_Todoroki.png"
+dub_timestamps=[145.657]
+dub_characters=["Todoroki"]

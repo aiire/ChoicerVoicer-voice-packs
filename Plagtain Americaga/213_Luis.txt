@@ -1,0 +1,6 @@
+[data]
+
+caption="[Luis] “You see, at this early stage, the parasite--the plaga...”"
+image="213_Luis.png"
+dub_timestamps=[37.727]
+dub_characters=["Luis"]

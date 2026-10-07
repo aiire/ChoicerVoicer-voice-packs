@@ -1,0 +1,6 @@
+[data]
+
+caption="[Luis] “You are, well... lucky.”"
+image="212_Luis.png"
+dub_timestamps=[34.214]
+dub_characters=["Luis"]

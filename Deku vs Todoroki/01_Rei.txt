@@ -1,0 +1,6 @@
+[data]
+
+caption="[Rei] “You are not a prisoner of your lineage”"
+image="01_Rei.png"
+dub_timestamps=[1.270]
+dub_characters=["Rei"]

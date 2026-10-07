@@ -1,0 +1,6 @@
+[data]
+
+caption="[Todoroki] “You fool...”"
+image="205_Todoroki.png"
+dub_timestamps=[36.501]
+dub_characters=["Todoroki"]

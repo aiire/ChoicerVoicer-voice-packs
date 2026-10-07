@@ -1,0 +1,6 @@
+[data]
+
+caption="[Midoriya] “Hm!”"
+image="802_Midoriya.png"
+dub_timestamps=[112.494]
+dub_characters=["Midoriya"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Luis] “Well, you have the same thing inside you.”"
+image="208_Luis.png"
+dub_timestamps=[20.164]
+dub_characters=["Luis"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Android 13] “I was programmed to KILL your ass, and that's exactly what I'm gonna do. You hear?”"
+image="04_Android 13.png"
+dub_timestamps=[20.617]
+dub_characters=["Android 13"]

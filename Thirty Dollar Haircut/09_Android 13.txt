@@ -1,0 +1,6 @@
+[data]
+
+caption="[Android 13] “Go get 'em, boys!”"
+image="09_Android 13.png"
+dub_timestamps=[52.410]
+dub_characters=["Android 13"]

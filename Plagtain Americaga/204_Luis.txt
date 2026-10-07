@@ -1,0 +1,6 @@
+[data]
+
+caption="[Luis] “Is caused by something called a...”"
+image="204_Luis.png"
+dub_timestamps=[9.390]
+dub_characters=["Luis"]

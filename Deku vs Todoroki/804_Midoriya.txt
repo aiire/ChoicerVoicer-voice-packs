@@ -1,0 +1,6 @@
+[data]
+
+caption="[Midoriya] “COME AT ME WITH YOUR FULL POWER, TODOROKI!!!!!”"
+image="804_Midoriya.png"
+dub_timestamps=[132.580]
+dub_characters=["Midoriya"]

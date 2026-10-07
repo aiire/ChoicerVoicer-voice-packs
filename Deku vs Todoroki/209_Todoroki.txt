@@ -1,0 +1,6 @@
+[data]
+
+caption="[Todoroki] “I'll be a hero!”"
+image="209_Todoroki.png"
+dub_timestamps=[50.780]
+dub_characters=["Todoroki"]

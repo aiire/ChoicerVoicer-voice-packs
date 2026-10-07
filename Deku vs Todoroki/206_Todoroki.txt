@@ -1,0 +1,6 @@
+[data]
+
+caption="[Todoroki] “Even though you wanna win this battle...”"
+image="206_Todoroki.png"
+dub_timestamps=[38.937]
+dub_characters=["Todoroki"]

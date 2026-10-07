@@ -1,0 +1,6 @@
+[data]
+
+caption="[Trunks] “We'll see, you Red Ribbon redneck!”"
+image="302_Trunks.png"
+dub_timestamps=[44.211]
+dub_characters=["Trunks"]

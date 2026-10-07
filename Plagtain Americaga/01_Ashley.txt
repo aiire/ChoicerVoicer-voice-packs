@@ -1,0 +1,6 @@
+[data]
+
+caption="[Ashley] “*hyperventilating*”"
+image="01_Ashley.png"
+dub_timestamps=[0.136]
+dub_characters=["Ashley"]

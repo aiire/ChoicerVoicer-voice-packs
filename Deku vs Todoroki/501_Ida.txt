@@ -1,0 +1,6 @@
+[data]
+
+caption="[Ida] “Incredible!”"
+image="501_Ida.png"
+dub_timestamps=[21.068]
+dub_characters=["Ida"]

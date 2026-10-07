@@ -1,0 +1,6 @@
+[data]
+
+caption="[Luis] “You saw those... \"people,\" right?”"
+image="207_Luis.png"
+dub_timestamps=[16.491]
+dub_characters=["Luis"]

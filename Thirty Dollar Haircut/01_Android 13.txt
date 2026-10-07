@@ -1,0 +1,6 @@
+[data]
+
+caption="[Android 13] “That's right, this particular computer has been programmed to think that it IS Doctor Gero.”"
+image="01_Android 13.png"
+dub_timestamps=[0.000]
+dub_characters=["Android 13"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Endeavor] “With my blood in your veins, you'll surpass me”"
+image="705_Endeavor.png"
+dub_timestamps=[73.277]
+dub_characters=["Endeavor"]

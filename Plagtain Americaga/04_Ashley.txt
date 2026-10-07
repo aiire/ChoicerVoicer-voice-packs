@@ -1,0 +1,6 @@
+[data]
+
+caption="[Ashley] “I don't wanna become like them.”"
+image="04_Ashley.png"
+dub_timestamps=[32.281]
+dub_characters=["Ashley"]

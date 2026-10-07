@@ -1,0 +1,6 @@
+[data]
+
+caption="[Rei] “It's okay to use your power”"
+image="02_Rei.png"
+dub_timestamps=[3.937]
+dub_characters=["Rei"]

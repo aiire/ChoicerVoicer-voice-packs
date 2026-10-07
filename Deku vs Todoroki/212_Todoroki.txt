@@ -1,0 +1,6 @@
+[data]
+
+caption="[Todoroki] “you must be crazy.”"
+image="212_Todoroki.png"
+dub_timestamps=[102.100]
+dub_characters=["Todoroki"]

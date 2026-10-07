@@ -1,0 +1,6 @@
+[data]
+
+caption="[Luis] “Is this the first time you've coughed up blood like this?”"
+image="202_Luis.png"
+dub_timestamps=[1.810]
+dub_characters=["Luis"]

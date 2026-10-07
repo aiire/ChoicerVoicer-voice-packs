@@ -1,0 +1,6 @@
+[data]
+
+caption="[Endeavor] “That's it, very good! This is a dawn of a new era for us!”"
+image="704_Endeavor.png"
+dub_timestamps=[68.660]
+dub_characters=["Endeavor"]

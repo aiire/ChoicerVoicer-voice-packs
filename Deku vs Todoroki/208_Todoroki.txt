@@ -1,0 +1,6 @@
+[data]
+
+caption="[Todoroki] “I want it too”"
+image="208_Todoroki.png"
+dub_timestamps=[49.047]
+dub_characters=["Todoroki"]

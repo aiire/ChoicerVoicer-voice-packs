@@ -1,0 +1,6 @@
+[data]
+
+caption="[Android 13] “Is that what you've done with your \"free will,\" boy? Don't you lecture me, with your thirty-dollar haircut, Goku DIES.”"
+image="07_Android 13.png"
+dub_timestamps=[36.200]
+dub_characters=["Android 13"]

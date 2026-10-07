@@ -1,0 +1,6 @@
+[data]
+
+caption="[Todoroki] “*heavy breathing*”"
+image="202_Todoroki.png"
+dub_timestamps=[8.733]
+dub_characters=["Todoroki"]

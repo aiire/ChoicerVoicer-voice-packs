@@ -1,0 +1,6 @@
+[data]
+
+caption="[Luis] “It is possible to remove it...”"
+image="214_Luis.png"
+dub_timestamps=[41.117]
+dub_characters=["Luis"]

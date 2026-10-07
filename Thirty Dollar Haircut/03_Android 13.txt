@@ -1,0 +1,6 @@
+[data]
+
+caption="[Android 13] “I know, I know, we should all just let bygones be bygones, but that ain't the way it's gonna be.”"
+image="03_Android 13.png"
+dub_timestamps=[14.667]
+dub_characters=["Android 13"]

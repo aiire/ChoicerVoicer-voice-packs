@@ -1,0 +1,6 @@
+[data]
+
+caption="[Present Mic] “What a doting father...”"
+image="304_Present Mic.png"
+dub_timestamps=[89.273]
+dub_characters=["Present Mic"]

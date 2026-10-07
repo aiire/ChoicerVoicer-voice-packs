@@ -1,0 +1,6 @@
+[data]
+
+caption="[Luis] “And, oh yeah--the right equipment ”"
+image="217_Luis.png"
+dub_timestamps=[48.150]
+dub_characters=["Luis"]

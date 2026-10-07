@@ -1,0 +1,6 @@
+[data]
+
+caption="[Midoriya] “Gotta try and get closs...and give it everything!”"
+image="803_Midoriya.png"
+dub_timestamps=[128.797]
+dub_characters=["Midoriya"]

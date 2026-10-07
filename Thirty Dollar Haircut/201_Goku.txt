@@ -1,0 +1,6 @@
+[data]
+
+caption="[Goku] “*locks in*”"
+image="201_Goku.png"
+dub_timestamps=[13.500]
+dub_characters=["Goku"]

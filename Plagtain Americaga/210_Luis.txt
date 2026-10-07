@@ -1,0 +1,6 @@
+[data]
+
+caption="[Luis] “This, what you're experiencing, these symptoms...”"
+image="210_Luis.png"
+dub_timestamps=[26.697]
+dub_characters=["Luis"]

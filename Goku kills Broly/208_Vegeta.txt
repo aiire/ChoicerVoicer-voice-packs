@@ -1,6 +1,6 @@
 [data]
 
-caption="[Vegeta] “Don't... think this changes anything... ugh... *laid out*”"
+caption="[Vegeta] “Don't... think this changes anything... ”"
 image="208_Vegeta.png"
 dub_timestamps=[98.348]
 dub_characters=["Vegeta"]
