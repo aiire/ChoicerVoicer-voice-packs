@@ -1,0 +1,6 @@
+[data]
+
+caption="[Krillin] “TRUNKS, LET'S GOOOO!!!!!”"
+image="205_Krillin.png"
+dub_timestamps=[88.686]
+dub_characters=["Krillin"]

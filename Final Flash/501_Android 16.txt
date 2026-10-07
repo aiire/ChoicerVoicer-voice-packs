@@ -1,0 +1,6 @@
+[data]
+
+caption="[Android 16] “*cooked*”"
+image="501_Android 16.png"
+dub_timestamps=[102.627]
+dub_characters=["Android 16"]

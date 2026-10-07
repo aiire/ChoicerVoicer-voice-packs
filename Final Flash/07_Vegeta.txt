@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vegeta] “Now if you really want to test your strength, stay right where you are!”"
+image="07_Vegeta.png"
+dub_timestamps=[39.517]
+dub_characters=["Vegeta"]

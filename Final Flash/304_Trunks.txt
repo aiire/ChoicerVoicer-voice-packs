@@ -1,0 +1,6 @@
+[data]
+
+caption="[Trunks] “YOU'RE GOING TO DESTROY THE WHOLE PLANET, FATHER!!!!!! YOU'VE GOT TO STOP IT!!!!!”"
+image="304_Trunks.png"
+dub_timestamps=[80.557]
+dub_characters=["Trunks"]

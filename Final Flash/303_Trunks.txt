@@ -1,0 +1,6 @@
+[data]
+
+caption="[Trunks] “He's trying to provoke Cell into challenging his attack!”"
+image="303_Trunks.png"
+dub_timestamps=[49.547]
+dub_characters=["Trunks"]

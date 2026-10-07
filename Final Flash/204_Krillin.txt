@@ -1,0 +1,6 @@
+[data]
+
+caption="[Krillin] “*cowering in fear*”"
+image="204_Krillin.png"
+dub_timestamps=[86.627]
+dub_characters=["Krillin"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Krillin] “Okay, that's one explanation, how bout' this one?”"
+image="202_Krillin.png"
+dub_timestamps=[53.574]
+dub_characters=["Krillin"]

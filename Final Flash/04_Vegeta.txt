@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vegeta] “Once again you have taken for granted... the powers of a true Saiyan warrior!”"
+image="04_Vegeta.png"
+dub_timestamps=[24.503]
+dub_characters=["Vegeta"]

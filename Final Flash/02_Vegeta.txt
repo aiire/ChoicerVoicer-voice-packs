@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vegeta] “*distance grunting*”"
+image="02_Vegeta.png"
+dub_timestamps=[19.443]
+dub_characters=["Vegeta"]

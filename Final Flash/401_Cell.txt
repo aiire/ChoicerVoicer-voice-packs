@@ -1,0 +1,6 @@
+[data]
+
+caption="[Cell] “*chuckles*”"
+image="401_Cell.png"
+dub_timestamps=[36.388]
+dub_characters=["Cell"]

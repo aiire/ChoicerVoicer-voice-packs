@@ -1,0 +1,6 @@
+[data]
+
+caption="[Krillin] “VEGETA'S LOST HIS MIND AND HE'S GONNA FRY US ALL!!!”"
+image="203_Krillin.png"
+dub_timestamps=[57.261]
+dub_characters=["Krillin"]

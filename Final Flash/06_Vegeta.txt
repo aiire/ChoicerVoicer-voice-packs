@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vegeta] “*charging Final Flash in the distance*”"
+image="06_Vegeta.png"
+dub_timestamps=[35.817]
+dub_characters=["Vegeta"]

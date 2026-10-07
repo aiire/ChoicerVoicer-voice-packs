@@ -1,0 +1,6 @@
+[data]
+
+caption="[Trunks] “So that's what he's doing!”"
+image="302_Trunks.png"
+dub_timestamps=[47.446]
+dub_characters=["Trunks"]
