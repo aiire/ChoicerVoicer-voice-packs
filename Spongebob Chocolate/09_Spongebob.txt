@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “There must be something to this selling game that we're just not getting!”"
+image="09_Spongebob.png"
+dub_timestamps=[72.194]
+dub_characters=["Spongebob"]

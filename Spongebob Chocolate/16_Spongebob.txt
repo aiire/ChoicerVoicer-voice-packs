@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “Oh, but this chocolate's not for EATING.”"
+image="16_Spongebob.png"
+dub_timestamps=[126.957]
+dub_characters=["Spongebob"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “Careful, put him down gently”"
+image="22_Spongebob.png"
+dub_timestamps=[192.554]
+dub_characters=["Spongebob"]

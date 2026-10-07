@@ -1,0 +1,6 @@
+[data]
+
+caption="[Mary] “No, no, no no!”"
+image="506_Mary.png"
+dub_timestamps=[133.374]
+dub_characters=["Mary"]

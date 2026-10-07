@@ -1,0 +1,6 @@
+[data]
+
+caption="[Patrick] “You rub it on your skin, and it makes you live forever!”"
+image="407_Patrick.png"
+dub_timestamps=[129.340]
+dub_characters=["Patrick"]

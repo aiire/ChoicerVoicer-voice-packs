@@ -1,0 +1,6 @@
+[data]
+
+caption="[Chocolate Lady] “You can't just wait for me to die can you!”"
+image="602_Chocolate Lady.png"
+dub_timestamps=[110.444]
+dub_characters=["Chocolate Lady"]

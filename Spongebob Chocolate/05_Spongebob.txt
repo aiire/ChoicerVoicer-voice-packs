@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “WOW... what is it?”"
+image="05_Spongebob.png"
+dub_timestamps=[31.591]
+dub_characters=["Spongebob"]

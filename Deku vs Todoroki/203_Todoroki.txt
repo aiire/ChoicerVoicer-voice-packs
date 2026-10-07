@@ -2,5 +2,5 @@
 
 caption="[Todoroki] “When I'm in battle... I never use my left side.”"
 image="203_Todoroki.png"
-dub_timestamps=[16.088]
+dub_timestamps=[16.021]
 dub_characters=["Todoroki"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Patrick] “Eat Barnacle Chips, they're delicious.”"
+image="404_Patrick.png"
+dub_timestamps=[78.378]
+dub_characters=["Patrick"]

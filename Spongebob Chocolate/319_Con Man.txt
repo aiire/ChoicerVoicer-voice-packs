@@ -1,0 +1,6 @@
+[data]
+
+caption="[Con Man] “There is... one thing.”"
+image="319_Con Man.png"
+dub_timestamps=[202.027]
+dub_characters=["Con Man"]

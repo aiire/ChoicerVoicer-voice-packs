@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “If there's anything we can do to help you?”"
+image="24_Spongebob.png"
+dub_timestamps=[199.060]
+dub_characters=["Spongebob"]

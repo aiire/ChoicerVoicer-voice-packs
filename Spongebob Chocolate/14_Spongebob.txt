@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “We're selling chocolate”"
+image="14_Spongebob.png"
+dub_timestamps=[100.530]
+dub_characters=["Spongebob"]

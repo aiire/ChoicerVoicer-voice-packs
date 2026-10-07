@@ -1,0 +1,6 @@
+[data]
+
+caption="[Chocolate Lady] “WHAT?”"
+image="603_Chocolate Lady.png"
+dub_timestamps=[115.687]
+dub_characters=["Chocolate Lady"]

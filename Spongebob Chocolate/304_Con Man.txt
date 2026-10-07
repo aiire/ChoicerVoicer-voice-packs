@@ -1,0 +1,6 @@
+[data]
+
+caption="[Con Man] “Heh heh heh heh... suckers!”"
+image="304_Con Man.png"
+dub_timestamps=[46.995]
+dub_characters=["Con Man"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Broly] “No matter HOW much power you absorb from those IDIOTS, it WON'T be enough to KILL ME!”"
+image="312_Broly.png"
+dub_timestamps=[119.098]
+dub_characters=["Broly"]

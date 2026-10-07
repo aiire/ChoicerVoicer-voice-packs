@@ -1,0 +1,6 @@
+[data]
+
+caption="[Chocolate Guy] “I'd like to buy all your chocolate!”"
+image="208_Chocolate Guy.png"
+dub_timestamps=[244.831]
+dub_characters=["Chocolate Guy"]

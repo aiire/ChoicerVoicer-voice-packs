@@ -1,0 +1,6 @@
+[data]
+
+caption="[Con Man] “At night, I lie awake in agony until my heart attacks put me to sleep.”"
+image="315_Con Man.png"
+dub_timestamps=[183.846]
+dub_characters=["Con Man"]

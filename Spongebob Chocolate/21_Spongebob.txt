@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “Quick, Patrick, let's help him!”"
+image="21_Spongebob.png"
+dub_timestamps=[191.030]
+dub_characters=["Spongebob"]

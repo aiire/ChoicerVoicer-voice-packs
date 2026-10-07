@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “Uh, we've got some head trauma and internal bleeding...”"
+image="20_Spongebob.png"
+dub_timestamps=[170.167]
+dub_characters=["Spongebob"]

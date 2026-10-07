@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “Let's face it, Patrick. We're failures.”"
+image="27_Spongebob.png"
+dub_timestamps=[231.417]
+dub_characters=["Spongebob"]

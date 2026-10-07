@@ -1,0 +1,6 @@
+[data]
+
+caption="[Chocolate Guy] “I've been trying to catch you boys all day!”"
+image="207_Chocolate Guy.png"
+dub_timestamps=[241.250]
+dub_characters=["Chocolate Guy"]

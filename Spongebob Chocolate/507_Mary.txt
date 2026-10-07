@@ -1,0 +1,6 @@
+[data]
+
+caption="[Mary] “I hate you!”"
+image="507_Mary.png"
+dub_timestamps=[144.654]
+dub_characters=["Mary"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Con Man] “It's a candy bar bag, ya knucklehead! But, you don't need these bags.”"
+image="302_Con Man.png"
+dub_timestamps=[33.858]
+dub_characters=["Con Man"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “Hello, YOUNG lady!”"
+image="13_Spongebob.png"
+dub_timestamps=[96.830]
+dub_characters=["Spongebob"]

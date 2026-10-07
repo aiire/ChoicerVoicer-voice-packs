@@ -1,0 +1,6 @@
+[data]
+
+caption="[Patrick] “HOORAY FOR LYING!!”"
+image="408_Patrick.png"
+dub_timestamps=[151.507]
+dub_characters=["Patrick"]

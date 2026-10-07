@@ -1,0 +1,6 @@
+[data]
+
+caption="[Patrick] “I can live with that. ”"
+image="409_Patrick.png"
+dub_timestamps=[234.750]
+dub_characters=["Patrick"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “That's it, Patrick! We've gotta stretch the truth!”"
+image="12_Spongebob.png"
+dub_timestamps=[87.626]
+dub_characters=["Spongebob"]

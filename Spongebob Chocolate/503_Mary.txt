@@ -1,0 +1,6 @@
+[data]
+
+caption="[Mary] “They're selling chocolate.”"
+image="503_Mary.png"
+dub_timestamps=[113.872]
+dub_characters=["Mary"]

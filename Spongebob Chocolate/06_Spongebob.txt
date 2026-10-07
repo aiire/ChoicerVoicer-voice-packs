@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “We need 'em! We need 'em!”"
+image="06_Spongebob.png"
+dub_timestamps=[38.794]
+dub_characters=["Spongebob"]

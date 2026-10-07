@@ -1,0 +1,6 @@
+[data]
+
+caption="[Con Man] “Oh.. NO!”"
+image="316_Con Man.png"
+dub_timestamps=[188.246]
+dub_characters=["Con Man"]

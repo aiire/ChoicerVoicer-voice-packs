@@ -2,5 +2,5 @@
 
 caption="[Ida] “Incredible!”"
 image="501_Ida.png"
-dub_timestamps=[21.068]
+dub_timestamps=[20.868]
 dub_characters=["Ida"]

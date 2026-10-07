@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “This guy'll feel so sorry for us, he'll have to buy ALL of our chocolate!”"
+image="18_Spongebob.png"
+dub_timestamps=[155.070]
+dub_characters=["Spongebob"]

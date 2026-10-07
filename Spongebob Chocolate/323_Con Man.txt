@@ -1,0 +1,6 @@
+[data]
+
+caption="[Con Man] “It does my heart good to con a couple of class-A sucker-roonies like those two! AHA HA HAA!!!”"
+image="323_Con Man.png"
+dub_timestamps=[218.786]
+dub_characters=["Con Man"]

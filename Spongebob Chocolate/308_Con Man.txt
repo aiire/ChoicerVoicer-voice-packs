@@ -1,0 +1,6 @@
+[data]
+
+caption="[Con Man] “You two lady-killers are too smart to be without one of my patented, Candy Bar Bag Carrying Bags.”"
+image="308_Con Man.png"
+dub_timestamps=[64.016]
+dub_characters=["Con Man"]

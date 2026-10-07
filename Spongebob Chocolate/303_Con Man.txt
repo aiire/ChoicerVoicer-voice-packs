@@ -1,0 +1,6 @@
+[data]
+
+caption="[Con Man] “So long, boys! Happy hunting!”"
+image="303_Con Man.png"
+dub_timestamps=[44.151]
+dub_characters=["Con Man"]

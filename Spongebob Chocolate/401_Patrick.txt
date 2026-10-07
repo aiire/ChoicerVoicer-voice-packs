@@ -1,0 +1,6 @@
+[data]
+
+caption="[Patrick] “We need 'em! We need 'em!”"
+image="401_Patrick.png"
+dub_timestamps=[38.796]
+dub_characters=["Patrick"]

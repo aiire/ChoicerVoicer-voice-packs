@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “'Kay, that first guy didn't count. This is our REAL first step.”"
+image="03_Spongebob.png"
+dub_timestamps=[19.368]
+dub_characters=["Spongebob"]

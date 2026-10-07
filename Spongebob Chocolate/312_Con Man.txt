@@ -1,0 +1,6 @@
+[data]
+
+caption="[Con Man] “Ugh, some guys have all the luck.”"
+image="312_Con Man.png"
+dub_timestamps=[174.334]
+dub_characters=["Con Man"]

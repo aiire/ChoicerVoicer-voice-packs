@@ -1,0 +1,6 @@
+[data]
+
+caption="[Chocolate Guy] “Did you say... chocolate?”"
+image="202_Chocolate Guy.png"
+dub_timestamps=[7.808]
+dub_characters=["Chocolate Guy"]

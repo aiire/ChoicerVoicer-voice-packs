@@ -1,0 +1,6 @@
+[data]
+
+caption="[Chocolate Lady] “I ALWAYS HATED IT!!!!”"
+image="606_Chocolate Lady.png"
+dub_timestamps=[125.249]
+dub_characters=["Chocolate Lady"]

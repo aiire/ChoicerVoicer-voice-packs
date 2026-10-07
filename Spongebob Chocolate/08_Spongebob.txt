@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “Say, weren't you the same guy who sold us these candy bar bags?”"
+image="08_Spongebob.png"
+dub_timestamps=[55.648]
+dub_characters=["Spongebob"]

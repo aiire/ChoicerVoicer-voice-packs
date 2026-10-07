@@ -1,0 +1,6 @@
+[data]
+
+caption="[Con Man] “No self-respecting candy bar salesman would be caught dead without one of these!”"
+image="301_Con Man.png"
+dub_timestamps=[26.525]
+dub_characters=["Con Man"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “Is your mother home?”"
+image="15_Spongebob.png"
+dub_timestamps=[102.166]
+dub_characters=["Spongebob"]

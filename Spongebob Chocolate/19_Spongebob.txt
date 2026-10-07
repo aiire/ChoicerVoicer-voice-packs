@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “Hello, sir. Would you like to buy a chocolate bar? We need an operation.”"
+image="19_Spongebob.png"
+dub_timestamps=[161.934]
+dub_characters=["Spongebob"]

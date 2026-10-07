@@ -1,0 +1,6 @@
+[data]
+
+caption="[Mary] “Yes?”"
+image="501_Mary.png"
+dub_timestamps=[95.049]
+dub_characters=["Mary"]

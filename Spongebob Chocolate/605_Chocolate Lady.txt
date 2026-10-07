@@ -1,0 +1,6 @@
+[data]
+
+caption="[Chocolate Lady] “Chocolate... I remember when they first invented chocolate...”"
+image="605_Chocolate Lady.png"
+dub_timestamps=[120.681]
+dub_characters=["Chocolate Lady"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Chocolate Lady] “Live forever, you say?! I'll take one!”"
+image="607_Chocolate Lady.png"
+dub_timestamps=[134.269]
+dub_characters=["Chocolate Lady"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Patrick] “Well maybe if they didn't stretch the truth, they wouldn't sell as many.”"
+image="405_Patrick.png"
+dub_timestamps=[83.163]
+dub_characters=["Patrick"]

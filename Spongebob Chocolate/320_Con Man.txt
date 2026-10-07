@@ -1,0 +1,6 @@
+[data]
+
+caption="[Con Man] “As you can well imagine, my medical bills are extremely high.”"
+image="320_Con Man.png"
+dub_timestamps=[203.776]
+dub_characters=["Con Man"]

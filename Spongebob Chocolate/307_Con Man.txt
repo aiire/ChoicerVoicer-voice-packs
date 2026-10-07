@@ -1,0 +1,6 @@
+[data]
+
+caption="[Con Man] “But it looks to me like you fellas have got a lot of bags there.”"
+image="307_Con Man.png"
+dub_timestamps=[60.503]
+dub_characters=["Con Man"]

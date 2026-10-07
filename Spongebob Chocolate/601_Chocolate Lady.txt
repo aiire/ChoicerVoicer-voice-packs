@@ -1,0 +1,6 @@
+[data]
+
+caption="[Chocolate Lady] “WHAT!! WHAT, WHAT'S ALL THE YELLING?!”"
+image="601_Chocolate Lady.png"
+dub_timestamps=[106.910]
+dub_characters=["Chocolate Lady"]

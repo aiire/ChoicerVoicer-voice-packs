@@ -1,0 +1,6 @@
+[data]
+
+caption="[Chocolate Lady] “Come on, you lazy Mary! START RUBBING ME WITH THAT CHOCOLATE!!!”"
+image="608_Chocolate Lady.png"
+dub_timestamps=[139.420]
+dub_characters=["Chocolate Lady"]

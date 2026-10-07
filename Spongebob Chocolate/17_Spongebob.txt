@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “If we keep exaggerating the truth, we'll be fancy-living in no time!”"
+image="17_Spongebob.png"
+dub_timestamps=[147.337]
+dub_characters=["Spongebob"]

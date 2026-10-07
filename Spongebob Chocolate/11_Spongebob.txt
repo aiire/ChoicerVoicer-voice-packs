@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “There are most certainly NOT delicious.”"
+image="11_Spongebob.png"
+dub_timestamps=[81.328]
+dub_characters=["Spongebob"]

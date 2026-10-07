@@ -1,0 +1,6 @@
+[data]
+
+caption="[Con Man] “But, luckily I'm able to keep myself alive by selling... chocolate bars.”"
+image="321_Con Man.png"
+dub_timestamps=[207.806]
+dub_characters=["Con Man"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Con Man] “I was born with glass bones and paper skin.”"
+image="313_Con Man.png"
+dub_timestamps=[176.871]
+dub_characters=["Con Man"]

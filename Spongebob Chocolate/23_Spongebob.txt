@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spongebob] “Poor, poor man.”"
+image="23_Spongebob.png"
+dub_timestamps=[197.527]
+dub_characters=["Spongebob"]
